@@ -41,6 +41,7 @@ int main() {
 # Output
 <img width="800" height="310" alt="M1ex1" src="https://github.com/user-attachments/assets/1e6c9f23-afb4-40fb-a53b-75ea8b209922" />
 
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -87,6 +88,8 @@ int main() {
 ```
 # Output:
 <img width="799" height="282" alt="M1ex2" src="https://github.com/user-attachments/assets/31e81934-139b-46cb-a343-3fe744574bf9" />
+
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -129,6 +132,8 @@ int main() {
 ```
 # Output:
 <img width="804" height="303" alt="M1ex3" src="https://github.com/user-attachments/assets/13c02a49-a304-4745-a608-296e72b5fa01" />
+
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -199,6 +204,8 @@ int main() {
 ```
 # Output:
 <img width="797" height="686" alt="M1ex4" src="https://github.com/user-attachments/assets/c711fd69-1781-4688-8afa-d0d5c234ab17" />
+
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -265,6 +272,8 @@ int main() {
 ```
 # Output:
 <img width="804" height="317" alt="M1ex5" src="https://github.com/user-attachments/assets/3891d0c4-6de8-42ae-a70d-a375fe406e17" />
+
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
